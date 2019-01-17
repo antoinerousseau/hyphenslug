@@ -1,0 +1,18 @@
+{
+  "name": "hyphenslug",
+  "version": "1.0.0",
+  "description": "Opinionated Node.js function that returns a slug made only of lowercase letters, numbers and hyphens, from any string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./test.js"
+  },
+  "repository": "github:antoinerousseau/hyphenslug",
+  "keywords": ["slug", "slugify", "hyphen", "simple", "url", "unicode", "urlify"],
+  "author": "Antoine Rousseau <antoine@rousseau.im>",
+  "license": "MIT",
+  "bugs": "https://github.com/antoinerousseau/hyphenslug/issues",
+  "homepage": "https://github.com/antoinerousseau/hyphenslug#readme",
+  "dependencies": {
+    "unicode": "^11.0.1"
+  }
+}
